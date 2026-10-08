@@ -1,0 +1,5 @@
+# Resolve tools and offline tests use only Python's standard library.
+# Dependencies below are exclusively for local speech analysis.
+faster-whisper==1.2.1
+imageio-ffmpeg==0.6.0
+# Optional independent OTIO interoperability check: opentimelineio==0.18.1
